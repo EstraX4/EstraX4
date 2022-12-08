@@ -1,3 +1,6 @@
+<h1 align="center">Hi, Juan David Estrada Carvajal</h1>
+<h3 align="center">I´m a new develpoer who want to upgrade in that great area.</h3>
+
 - 🌱 I’m currently learning **Javascript, React, Node.js, MondoDB, Git**
 
 - 👨‍💻 All of my projects are available at [here](https://portafolio-pag.vercel.app/)
