@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MondoDB, Git**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://portafolio-pag.vercel.app/)
 
 - 📫 How to reach me **estraxclips@gmail.com**
 
