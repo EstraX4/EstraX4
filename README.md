@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&pause=1000&color=58A6FF&center=true&multiline=true&width=435&lines=HI%2C+I'M+JUAN+DAVID+ESTRADA+CARVAJAL;I%C2%B4M+A+NEW+DEVELOPER+FRONTEND." alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00B5FF&center=true&multiline=true&width=435&lines=HI!+I'M+JUAN.+D+ESTRADA+CARVAJAL;A+NEW+DEVELOPER+FRONTEND" alt="Typing SVG" /></a></h1>
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MondoDB, Git**
 
