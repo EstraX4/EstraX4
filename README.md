@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi, Juan David Estrada Carvajal</h1>
-<h3 align="center">I´m a new develpoer who want to upgrade in that great area.</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&pause=1000&color=58A6FF&center=true&multiline=true&width=435&lines=HI%2C+I'M+JUAN+DAVID+ESTRADA+CARVAJAL;I%C2%B4M+A+NEW+DEVELOPER+FRONTEND." alt="Typing SVG" /></a></h1>
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MondoDB, Git**
 
